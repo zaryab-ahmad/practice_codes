@@ -1,0 +1,7 @@
+ Task # 1:
+ 
+1. How to load a image.
+2. What is image channels
+         1. Channels transformation.
+         2. Image converting to RGB, gray and so on.
+3. Filters.
